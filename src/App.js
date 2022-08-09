@@ -14,9 +14,9 @@ function App() {
             <div className='form'>
               <Addtext />
             </div>
-            <div className='container-fluid'>
+            {/*<div className='container-fluid'>
               <Plan />
-            </div>
+            </div>*/}
           </div>
         </div>
       </div>
